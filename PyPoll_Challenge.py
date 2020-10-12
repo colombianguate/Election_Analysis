@@ -103,7 +103,7 @@ with open(file_to_save, "w") as txt_file:
         # 6e: Save the county votes to a text file.
         txt_file.write(county_results)
         # 6f: Write a decision statement to determine the winning county and get its vote count.
-        if county_votes[county_name] == max(county_votes.values()):
+        if (county_votes[county_name] > winning_county_large):
             winning_county += county_name
             winning_county_large = county_votes[county_name]
 
