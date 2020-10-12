@@ -23,6 +23,9 @@ A Colorado Board of Elctions employee has given you the followig tasks to comple
   - Charles C. Stock received 23% and 85,213 of votes.
   - Diana DeGette received 73.8% and 272,892 of votes.
   - Raymon A. Doane received 3.1% and 11,606 of votes.
+
+- Which county had the largest number of votes?
+  - Denver who received 82.8% of the vote and 306,055 votes.
   
 - The winner of the election:
   - Dian DeGette who received 73.8% of the vote and 272,892 of votes.
